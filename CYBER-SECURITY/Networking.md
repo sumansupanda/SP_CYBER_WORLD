@@ -6,4 +6,4 @@ The computers on a network may be linked through cables, telephone lines, radio 
 
 ## Basic types of network.
 
-1. Local area network(LAN)
+1. Local area network(LAN).
