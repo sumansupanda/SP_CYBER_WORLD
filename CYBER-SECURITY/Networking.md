@@ -8,5 +8,6 @@ The computers on a network may be linked through cables, telephone lines, radio 
 
 1. Local area network(LAN).
 
-A LAN is a network that is used for communicating among computer  devices, usually within an office building or home.
-![image](https://user-images.githubusercontent.com/88057741/235370529-fb1b9a36-945e-422a-be5d-515304e33981.png)
+A *LAN* is a network that is used for communicating among computer devices, usually within an office building or home.
+
+*LAN'S* enable
