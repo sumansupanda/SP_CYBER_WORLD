@@ -6,7 +6,7 @@ The computers on a network may be linked through cables, telephone lines, radio 
 
 ## Basic types of network.
 
-1. Local area network(LAN).
+1. Local Area Network(LAN)
 
 A *LAN* is a network that is used for communicating among computer devices, usually within an office building or home.
 
@@ -19,3 +19,5 @@ Requires little wiring, typically a single cable connecting to each device.
 Has lower cost compared to MAN's and WAN's.
 
 *LAN's* can be either wired or wiredless. Twisted-Pair, Coax or Fiber optic cable can be used in wired LAN's.
+
+2. Personal Area Network(PAN)
