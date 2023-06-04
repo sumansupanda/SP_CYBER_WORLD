@@ -33,3 +33,8 @@ The computers on a network may be linked through cables, telephone lines, radio 
 + Has lower cost compared to MAN's and WAN's.
 
 + PAN's can be either wired or wiredless. Twisted-Pair, Coax or Fiber optic cable can be used in wired LAN's.
+
+3. Metropolitan Area Network(MAN)
+
++ A *MAN* is a large computer network that usually spans a city or a large campus.
++ sdfsdfsadfsd
