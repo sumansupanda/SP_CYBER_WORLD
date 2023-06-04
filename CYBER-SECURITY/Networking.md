@@ -32,3 +32,11 @@ The computers on a network may be linked through cables, telephone lines, radio 
 + A MAN often acts as a high speed network to allow sharing of regional resources.
 + A MAN typically covers an area of between 5 and 50 Km diameter.
 + Example of MAN: Telephone company network that provides a high speed DSL to customers and cable TV network.
+
+4. Wide Area Network(WAN)
+
++ *WAN* covers a large geographic area such as country, continent or even whole of the world.
++ A WAN is two or more LANs connected together, the LANs can be many miles apart.
++ To cover great distances, WANs may transmit data over leased high-sped phone lines or wireless links such as satellites.
++ Multiple LANs can be connected together using devices such as bridges, routers, or gateways, which enable them to share data.
++ The world's most popular WAN is the INTERNET.
