@@ -20,4 +20,4 @@ Pipl collects, cross-references and connects online identity information from co
 
 Pipl is working to build a future where everyone can safely participate in our global society with trusted identity information that is protected from abuse and controlled by the individual.
 
-Refer to this 
+Please refer to this :point_right: [LINK](https://pipl.com/ "click for more information")
