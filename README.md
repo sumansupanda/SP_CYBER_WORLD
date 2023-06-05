@@ -8,3 +8,5 @@ Please refer to this :point_right: [LINK](https://github.com/sumansupanda/SP_CYB
 
 ## INFORMATION GATHERING TOOLS :open_book:
 In cybersecurity, `reconnaissance` is a method used by cyber attackers or ethical hackers that refers to the process of gathering information about a `target`, such as computer network, website or individual, to identify vulnerabilities that can be exploited.
+
+Please refer to this :point_right: [LINK](https://github.com/sumansupanda/SP_CYBER_WORLD/blob/main/CYBER-SECURITY/Information-Gathering.md "click for further exploration") for more exploration.
