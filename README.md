@@ -10,3 +10,9 @@ Please refer to this :point_right: [LINK](https://github.com/sumansupanda/SP_CYB
 In cybersecurity, `reconnaissance` is a method used by cyber attackers or ethical hackers that refers to the process of gathering information about a `target`, such as computer network, website or individual, to identify vulnerabilities that can be exploited.
 
 Please refer to this :point_right: [LINK](https://github.com/sumansupanda/SP_CYBER_WORLD/blob/main/CYBER-SECURITY/Information_Gathering.md "click for further exploration") for more exploration.
+
+## GOOGLE HACKING DATABASE :open_book:
+
+The Google Hacking Database (GHDB) is a categorized index of Internet search engine queries designed to uncover interesting, and usually sensitive, information made publicly available on the Internet.
+
+Please refer to this :point_right:
