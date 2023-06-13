@@ -30,4 +30,4 @@ Here are some common uses of the website like Domain Research, Cybersecurity Inv
 
 It's important to note that the specific information available for a domain name depends on its registration details and the level of privacy protection implemented by the domain owner. Some domain owners may choose to keep their information private or use privacy protection services, which can limit the amount of information that can be retrieved through the WHOIS lookup.
 
-Please refer to this :point_right: [LINK}](https://whois.domaintools.com/ "click for more information") for further exploration.
+Please refer to this :point_right: [LINK](https://whois.domaintools.com/ "click for more information") for further exploration.
