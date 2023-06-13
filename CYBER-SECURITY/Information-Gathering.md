@@ -21,3 +21,13 @@ Pipl collects, cross-references and connects online identity information from co
 Pipl is working to build a future where everyone can safely participate in our global society with trusted identity information that is protected from abuse and controlled by the individual.
 
 Please refer to this :point_right: [LINK](https://pipl.com/ "click for more information") for further exploration.
+
+2. Domaintools
+
+This website is a popular online tool that provides domain name and IP address lookup services. It allows users to gather information about registered domain names, including details about the domain's owner, registrar, registration date, expiration date, and DNS (Domain Name System) records.
+
+Here are some common uses of the website like Domain Research, Cybersecurity Investigations, Brand Protection, Intellectual Property Investigations, Domain Valuation.
+
+It's important to note that the specific information available for a domain name depends on its registration details and the level of privacy protection implemented by the domain owner. Some domain owners may choose to keep their information private or use privacy protection services, which can limit the amount of information that can be retrieved through the WHOIS lookup.
+
+Please refer to this :point_right: [LINK}](https://whois.domaintools.com/ "click for more information") for further exploration.
