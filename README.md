@@ -15,4 +15,4 @@ Please refer to this :point_right: [LINK](https://github.com/sumansupanda/SP_CYB
 
 The Google Hacking Database (GHDB) is a categorized index of Internet search engine queries designed to uncover interesting, and usually sensitive, information made publicly available on the Internet.
 
-Please refer to this :point_right: [LINK](https://github.com/sumansupanda/SP_CYBER_WORLD/blob/main/CYBER-SECURITY/Google_Database_Hacking.md "click for further exploration") for more exploration.
+Please refer to this :point_right: [LINK](https://github.com/sumansupanda/SP_CYBER_WORLD/blob/main/CYBER-SECURITY/Google_Hacking_Database.md "click for further exploration") for more exploration.
